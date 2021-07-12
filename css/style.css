@@ -129,6 +129,12 @@ hr{
     grid-template-columns: repeat(3, 1fr);
     grid-column-gap: 24px;
 }
+.course-duration{
+    background-color: orange;
+    border-radius:40px;
+    color: white;
+    padding: 5px;
+}
 .course{
     padding: 16px;
     width: 237px;
